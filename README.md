@@ -62,11 +62,15 @@ For help
 	
 	  python pnat.py -h or --help
 
-*Enter the function number you want 
-*It Returns output for a selected function 
-*Network output files are written in graphml format
-*A directory named temp is created on very first initialisation of script  
-*there is also a ./temp directory associated with pnat.py where plots/figures/are exported and saved  
+* Enter the function number you want 
+
+* It Returns output for a selected function 
+
+* Network output files are written in graphml format
+
+* A directory named temp is created on very first initialisation of script  
+
+* There is also a ./temp directory associated with pnat.py where plots/figures/are exported and saved  
 
 ## Contact Information
 
