@@ -5,7 +5,7 @@ Network Analysis Tool around Python-Igraph Library for  graph-theoretic paramete
 * [Installation](#installation)
 * [List of Files](#list-of-contents)
 * [Network Analysis Tool Usage](#netwowrk-analysis-tool)
-* [Contact Information](#contact-information
+* [Contact Information](#contact-information)
 * [List of Functions](#List-of-functions) 
 
 ## Installation
