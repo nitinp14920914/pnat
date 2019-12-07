@@ -1,5 +1,6 @@
 # pnat
 Network Analysis Tool around Python-Igraph Library for  graph-theoretic parameters evaluation offering a variety of functions useful for bioinformatics including community detection and interactive visualisation of graph  offering menu-driven simple to use an approach
+( Initial version of code : https://github.com/nitinp14920914/igraphtool)
 
 ## Table of contents
 * [Installation](#installation)
@@ -75,10 +76,11 @@ For help
 ## Contact Information
 
 For any trouble and query feel free we would love to respond 
-E-mail: 
+ 
 * nitin53_sit@jnu.ac.in,
 * andrew@jnu.ac.in,
 * nitinp14920914@gmail.com
+
 
 
 
