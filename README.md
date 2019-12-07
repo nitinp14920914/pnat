@@ -6,8 +6,8 @@ Network Analysis Tool around Python-Igraph Library for  graph-theoretic paramete
 * [Installation](#installation)
 * [List of Files](#list-of-contents)
 * [Network Analysis Tool Usage](#netwowrk-analysis-tool)
-* [Contact Information](#contact-information)
 * [List of Functions](#List-of-functions) 
+* [Contact Information](#contact-information)
 
 ## Installation
 
@@ -73,16 +73,6 @@ For help
 
 * There is also a ./temp directory associated with pnat.py where plots/figures/are exported and saved  
 
-## Contact Information
-
-For any trouble and query feel free we would love to respond 
- 
-* nitin53_sit@jnu.ac.in,
-* andrew@jnu.ac.in,
-* nitinp14920914@gmail.com
-
-
-
 
 ## List of Functions 
         
@@ -140,5 +130,14 @@ For any trouble and query feel free we would love to respond
 		* Community_edge_betweenness   [3]
 		* Community_infomap            [4]
 		* Community_label_propagation  [5]
+
+## Contact Information
+
+For any trouble and query feel free we would love to respond 
+ 
+* nitin53_sit@jnu.ac.in,
+* andrew@jnu.ac.in,
+* nitinp14920914@gmail.com
+
 
 
