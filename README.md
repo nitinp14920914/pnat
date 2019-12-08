@@ -135,8 +135,8 @@ For help
 
 For any trouble and query feel free we would love to respond 
  
-* nitin53_sit@jnu.ac.in,
-* andrew@jnu.ac.in,
+* nitin53_sit@jnu.ac.in
+* andrew@jnu.ac.in
 * nitinp14920914@gmail.com
 
 
