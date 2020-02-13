@@ -1,6 +1,12 @@
+![Image description](https://miro.medium.com/max/2978/1*rmq7bd3GFjcwfXtkrBQaPQ.png)
 # pnat
 Network Analysis Tool around Python-Igraph Library for  graph-theoretic parameters evaluation offering a variety of functions useful for bioinformatics including community detection and interactive visualisation of graph  offering menu-driven simple to use an approach
 ( Initial version of code : https://github.com/nitinp14920914/igraphtool)
+
+## pip install 
+
+	pip install pnat
+
 
 ## Table of contents
 * [Installation](#installation)
